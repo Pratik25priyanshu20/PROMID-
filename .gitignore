@@ -1,0 +1,16 @@
+# Ignore data files
+data/
+*.csv
+*.zip
+
+# Ignore model files
+*.pt
+*.bin
+*.ckpt
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
